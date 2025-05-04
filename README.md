@@ -6,7 +6,7 @@
 
 ## 📌Device
 
-![Pinout Diagram](/image/sample.webp "Pinout Diagram")
+![ImG](https://drive.google.com/uc?export=view&id=1WEyg9YlbFjsjnFULn3Qzv6V0EnYYg_Jc)
 
 ---
 ## ✅ Features
@@ -24,13 +24,13 @@
 
 ## 📌 Pinout Diagram
 
-![Pinout Diagram](/image/sample.webp "Pinout Diagram")
+![Pinout Diagram](https://drive.google.com/uc?export=view&id=1WDFn8MUzTz5a6Km8c8LYWL2MxMyfF2bs)
 
 ---
 
 ## 🔌 Wiring Diagram
 
-![Pinout Diagram](https://drive.google.com/uc?export=view&id=1WDFn8MUzTz5a6Km8c8LYWL2MxMyfF2bs)
+![Wiring Diagram](https://drive.google.com/uc?export=view&id=1WDFn8MUzTz5a6Km8c8LYWL2MxMyfF2bs)
 
 
 ---
