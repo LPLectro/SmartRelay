@@ -24,7 +24,7 @@
 
 ## 📌 Pinout Diagram
 
-![Pinout Diagram](https://drive.google.com/uc?export=view&id=1WDFn8MUzTz5a6Km8c8LYWL2MxMyfF2bs)
+![Pinout Diagram](https://drive.google.com/uc?export=view&id=1WUTjB_ye0l-Kma-Msb8uSf7WNb29k-vx)
 
 ---
 
