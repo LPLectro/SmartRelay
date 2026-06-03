@@ -1,7 +1,7 @@
 # Smart Relay Controller
 
 ---
-## 🔧 [Go to Programmer](https://www.lplectro.com/design_uploader.html)
+## 🔧 [Go to Programmer](https://www.lplectro.com/projects/wesak-light-programmer/design_uploader)
 ---
 
 ## 📌Device
